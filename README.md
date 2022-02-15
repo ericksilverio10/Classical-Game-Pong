@@ -17,7 +17,7 @@
  
 <h2>Repository used to collide objects: https://github.com/bmoren/p5.collide2D#colliderectcircle</h2>
 <h2>If you want to play: https://editor.p5js.org/ericksilverio.10/full/02SV0zCVyB</h2>
-<h2>-----------------------------------------------------------------------------------------------------</h2>
+<h2>------------------------------------------------------------------------------</h2>
 <h2>Clássico jogo de Atari "Pong" feito em HTML5, CSS3 e JavaScript usando uma biblioteca de JS para código criativo "p5.js".</h2>
 
 <h3>Fiz esse jogo de forma a estudar e melhorar a minha lógica de programação.</h3>
